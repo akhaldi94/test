@@ -1,1 +1,10 @@
-/target/*
+.idea/
+.DS_Store
+target
+project/target
+project/project/target
+**/*.jar
+**/*.log
+latest.integration
+metastore_db/
+conf/iss.ini
